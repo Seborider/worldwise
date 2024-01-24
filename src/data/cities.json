@@ -1,0 +1,232 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "cac5",
+      "cityName": "Saint-Romain-Lachalm",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-23T21:35:24.919Z",
+      "notes": "",
+      "position": {
+        "lng": "4.306640625000001",
+        "lat": "45.27488643704894"
+      }
+    },
+    {
+      "id": "74f6",
+      "cityName": "Mainburg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T21:35:35.161Z",
+      "notes": "",
+      "position": {
+        "lng": "11.77734375",
+        "lat": "48.69096039092552"
+      }
+    },
+    {
+      "id": "580",
+      "cityName": "Kety",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-01-23T21:35:39.230Z",
+      "notes": "",
+      "position": {
+        "lng": "18.544921875000004",
+        "lat": "46.437856895024204"
+      }
+    },
+    {
+      "id": "a2c6",
+      "cityName": "Ionian Sea",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-01-23T21:35:43.637Z",
+      "notes": "",
+      "position": {
+        "lng": "15.205078125000002",
+        "lat": "37.57941251343841"
+      }
+    },
+    {
+      "id": "6086",
+      "cityName": "Modica",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-01-23T21:35:49.037Z",
+      "notes": "",
+      "position": {
+        "lng": "14.853515625000002",
+        "lat": "36.8092847020594"
+      }
+    },
+    {
+      "id": "3e1f",
+      "cityName": "Aveiro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-01-23T21:36:03.148Z",
+      "notes": "",
+      "position": {
+        "lng": "-8.701171875000002",
+        "lat": "40.713955826286046"
+      }
+    },
+    {
+      "id": "a735",
+      "cityName": "Barsinghausen",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T21:36:13.360Z",
+      "notes": "",
+      "position": {
+        "lng": "9.404296875000002",
+        "lat": "52.32191088594773"
+      }
+    },
+    {
+      "id": "4dd5",
+      "cityName": "Kvinnherad",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-01-23T21:36:15.363Z",
+      "notes": "",
+      "position": {
+        "lng": "6.328125000000001",
+        "lat": "60.1524422143808"
+      }
+    },
+    {
+      "id": "634b",
+      "cityName": "Koluszki",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-01-23T21:36:17.978Z",
+      "notes": "",
+      "position": {
+        "lng": "19.775390625",
+        "lat": "51.72702815704777"
+      }
+    },
+    {
+      "id": "74ae",
+      "cityName": "San Giovanni in Croce",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-01-23T21:36:20.073Z",
+      "notes": "",
+      "position": {
+        "lng": "10.371093750000002",
+        "lat": "45.089035564831036"
+      }
+    },
+    {
+      "id": "1c7c",
+      "cityName": "Nandrin",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2024-01-23T21:36:22.479Z",
+      "notes": "",
+      "position": {
+        "lng": "5.361328125",
+        "lat": "50.51342652633956"
+      }
+    },
+    {
+      "id": "9a82",
+      "cityName": "Gjovik",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-01-12T21:36:25.000Z",
+      "notes": "",
+      "position": {
+        "lng": "10.458984375000002",
+        "lat": "60.930432202923335"
+      }
+    },
+    {
+      "id": "baea",
+      "cityName": "Storuman",
+      "country": "Sweden",
+      "emoji": "🇸🇪",
+      "date": "2024-01-03T21:36:35.000Z",
+      "notes": "",
+      "position": {
+        "lng": "17.578125000000004",
+        "lat": "64.9607663214987"
+      }
+    },
+    {
+      "id": "0b46",
+      "cityName": "Vinje",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-01-23T21:56:16.318Z",
+      "notes": "",
+      "position": {
+        "lng": "8.261718750000002",
+        "lat": "59.833775202184206"
+      }
+    },
+    {
+      "id": "36fa",
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-01-23T21:56:39.569Z",
+      "notes": "",
+      "position": {
+        "lng": "11.579589843750002",
+        "lat": "48.1358501991708"
+      }
+    },
+    {
+      "id": "0b44",
+      "cityName": "Alfajarin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-23T21:57:13.419Z",
+      "notes": "",
+      "position": {
+        "lng": "-0.6152343750000001",
+        "lat": "41.672911819602085"
+      }
+    },
+    {
+      "id": "81d4",
+      "cityName": "Requena",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-23T21:58:54.246Z",
+      "notes": "",
+      "position": {
+        "lng": "-1.2084960937500002",
+        "lat": "39.487084981687495"
+      }
+    }
+  ]
+}
